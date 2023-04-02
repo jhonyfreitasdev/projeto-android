@@ -4,7 +4,7 @@ Projeto Android criado no módulo 2 do curso de HTML e CCS
 ## 🔗 Acesso ao projeto
 <a href="https://jhonyfreitasdev.github.io/projeto-android/">Clique aqui para ir para a página</a>
 
-[<img src="src/image/android.gif">](https://jhonyfreitasdev.github.io/projeto-android)
+[<img src="src/images/android.gif">](https://jhonyfreitasdev.github.io/projeto-android)
 
 ## 🛠 Skills
 <div style="display: inline_block"><br>
